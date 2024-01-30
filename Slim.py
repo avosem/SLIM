@@ -1,7 +1,6 @@
 import time
 import webbrowser
 import random
-vol = mix.getvolume()
 otvet = 0
 print('ПРИВЕТ СЭР')
 name = input('ВАШЕ ИМЯ СЭР: ')
